@@ -68,4 +68,4 @@ for index, row in df.iterrows():
         print(f"Failed to send email. Error: {e}")
  
 
-print("✅ All certificates sent!")
+print("__All certificates sent!__")
