@@ -1,0 +1,22 @@
+Dear {name},
+
+Congratulations on successfully completing the Beginners Track of our 2024-2025 Google Developer Group (GDG) study session at Addis Ababa Science and Technology University!
+
+We are thrilled to recognize your dedication, hard work, and perfect attendance over the past six months. Your active participation and commitment to the Capstone Project have been truly commendable.
+
+As your Technical Lead, I want to personally thank you for your curiosity, discipline, and determination throughout this journey. Watching you grow from the fundamentals to completing your capstone project with excellence has been truly inspiring. This is just the beginning. Continue to code, build, and challenge yourself. The future of tech needs passionate minds like yours, and I have no doubt that you'll go on to do incredible things. Keep pushing forward—you've already proven you can.
+
+As a token of appreciation and recognition, we are pleased to award you the attached Certificate of Recognition. 🏅
+
+📎 Please find your certificate attached to this email.
+
+We encourage you to share your achievement on LinkedIn or other platforms using hashtags like #GDGAASTU and #TechInEthiopia.
+
+We're proud of what you've accomplished and look forward to seeing your continued growth as a developer. Stay connected with the GDG community for more opportunities to learn and collaborate!
+
+If you have any questions or need support moving forward, feel free to reach out.
+
+Best regards,  
+Mikias Goitom  
+GDG AASTU Technical Lead  
+Addis Ababa Science and Technology University

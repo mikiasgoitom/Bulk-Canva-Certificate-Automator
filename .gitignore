@@ -1,0 +1,25 @@
+# Ignore environment variables
+.env
+
+# Ignore generated certificate images
+/output/
+*.png
+
+# Ignore raw input files (you may remove this if you want to track them)
+*.csv
+*.xlsx
+
+# Ignore temporary/lock files
+~$*
+
+# Ignore Python virtual environment (if named certificate_bot or venv)
+certificate_bot/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+Thumbs.db
