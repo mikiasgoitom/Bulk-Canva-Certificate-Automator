@@ -8,11 +8,11 @@ import yagmail
 load_dotenv()
 
 sender_email = os.getenv("EMAIL_ADDRESS")
-app_password = os.getenv("EMAIL_PASSWORD") 
+app_password = os.getenv("APP_PASSWORD") 
 
 # Check if environment variables were loaded correctly
 if not sender_email or not app_password:
-    print("Error: EMAIL_ADDRESS or EMAIL_PASSWORD not found in .env file.")
+    print("Error: EMAIL_ADDRESS or APP_PASSWORD not found in .env file.")
     exit()
 
 print(f"Initializing email for {sender_email}...")
@@ -23,7 +23,7 @@ print("Email client initialized.")
 # --- SCRIPT LOGIC ---
 
 # Load student data
-df = pd.read_csv("student cert_canva_1.csv")
+df = pd.read_csv("students2.csv")
 
 # Load certificate template
 template_path = "./cert_template.png"
@@ -68,4 +68,4 @@ for index, row in df.iterrows():
         print(f"Failed to send email. Error: {e}")
  
 
-print("__All certificates sent!__")
+print("\033[32mAll certificates sent!\033[0m")
